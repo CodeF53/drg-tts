@@ -4,17 +4,12 @@
     "edge-tts": "^1.0.1",
     "lodash": "^4.17.21",
     "node-screenshots": "^0.2.0",
-    "play-sound": "^1.1.6",
     "tesseract.js": "^5.1.0"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^2.19.1",
     "@types/bun": "latest",
     "@types/lodash": "^4.17.4",
-    "@types/play-sound": "^1.1.2",
     "eslint": "9.2.0"
-  },
-  "trustedDependencies": [
-    "node-native-win-utils"
-  ]
+  }
 }
