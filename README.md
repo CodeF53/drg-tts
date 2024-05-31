@@ -6,3 +6,6 @@ A TTS for Dystopian Robot Girlfriend
 3. [install bun](https://bun.sh/)
 4. install npm packages `bun install`
 5. `bun start`
+
+## Development tools
+`bun .\development\createSamples.ts --gender Male --locale en --sample "Example text to be said matching voices"`
